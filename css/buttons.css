@@ -1,0 +1,13 @@
+.buttonmd {
+    height: 40px;
+    width: 150px;
+    color: #fff;
+    padding: 5px;
+    margin: 20px 0;
+    border: none;
+    cursor: pointer; 
+}
+
+.buttonconfirm {
+    background-color: #4169e1;
+}
